@@ -7,7 +7,7 @@ This React App helps to add and delete notes on a notepad.
 The App is Live and hosted on - https://to-do-list-reactjs-app.netlify.app/
 
 
-<string>Key Features</strong> -
+<strong>Key Features</strong> -
 1. Built with React.
 2. Add New Notes.
 3. Delete Existing Notes by Clicking on them.
